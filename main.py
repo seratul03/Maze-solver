@@ -7,7 +7,8 @@ import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 import numpy as np
 
-IMAGE_PATH = "data/raw/maze.png"
+# Change the path to your maze image here
+IMAGE_PATH = "data/raw/Maze2233.png"
 
 
 def find_start_pixel(binary):
